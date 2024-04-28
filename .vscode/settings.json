@@ -1,0 +1,11 @@
+{
+    "dotnet.defaultSolution": "CodingTestCS.sln",
+    "debug.inlineValues": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSaveMode": "file", 
+    "csharp.format.enable": true,
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp",
+    },
+    "omnisharp.useEditorFormattingSettings": false
+}
